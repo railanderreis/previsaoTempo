@@ -1,0 +1,6 @@
+pyspark
+findspark
+requests
+unidecode
+json
+pandas
